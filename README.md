@@ -9,6 +9,8 @@
 
 **Weblate server:** https://weblate.lolc.at/
 
+**Discord server:** https://discord.gg/3pE8xdn
+
 ### Contents
 ```
 uchuujin
